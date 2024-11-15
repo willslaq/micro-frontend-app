@@ -10,7 +10,7 @@ const App = () => (
     <div>Framework: react</div>
     <div>Language: TypeScript</div>
     <div>CSS: Tailwind</div>
-    <Button />
+    <Button label="Host MFE" />
   </div>
 );
 const rootElement = document.getElementById("app");
